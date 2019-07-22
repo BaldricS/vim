@@ -14,3 +14,7 @@ set undodir^=~/.vim/undo//
 if has("patch-8.1.0360")
 	set diffopt=internal,algorithm:patience
 end
+
+if executable("fzf")
+	packadd fzf
+end
