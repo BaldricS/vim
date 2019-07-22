@@ -1,0 +1,3 @@
+[submodule "pack/general/opt/fzf"]
+	path = pack/general/opt/fzf
+	url = https://github.com/junegunn/fzf.git
