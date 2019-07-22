@@ -17,4 +17,5 @@ end
 
 if executable("fzf")
 	packadd fzf
+	:nmap <unique> <C-P> :FZF<CR>
 end
