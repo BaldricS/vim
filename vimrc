@@ -22,3 +22,5 @@ end
 
 packadd! dracula
 colorscheme dracula
+
+set tags=./tags;/
