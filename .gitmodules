@@ -4,3 +4,6 @@
 [submodule "pack/general/start/editorconfig-vim"]
 	path = pack/general/start/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "pack/general/start/dracula"]
+	path = pack/general/start/dracula
+	url = git@github.com:dracula/vim.git
