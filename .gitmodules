@@ -7,3 +7,6 @@
 [submodule "pack/general/start/dracula"]
 	path = pack/general/start/dracula
 	url = git@github.com:dracula/vim.git
+[submodule "pack/general/start/typescript-vim"]
+	path = pack/general/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
